@@ -3,75 +3,73 @@ title = "Organizers"
 description = "Organizers"
 +++
 
-## Co-chairs
+<!-- ## Co-chairs
 
-{{< cochairs >}}
+{{< cochairs >}} -->
 
-## Organizer Comittee
+<!-- ## Organizer Comittee
 
-{{< committee >}}
+{{< committee >}} -->
 
 
-<!--
-## Co-chairs
-
-|       |   |     |
-|:-----:|---|:---:|
-| ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/Aedin.jpg) |
-| [Levi Waldron](mailto:lwaldron.research@gmail.com) | &nbsp;  | [Aedin Culhane](mailto:aedin@jimmy.harvard.edu) |
 
 ## Organizing committee
 
-|       |   |     |   |      |   |      |   |      |
-|:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/McDavid_A.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/feick_erica2020.png) | &nbsp; | ![](../img/organizers/JennyDrnevich.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) |
-| Andrew McDavid | &nbsp;  | Charlotte Soneson | &nbsp; | Erica Feick | &nbsp; | Jenny Drnevich | &nbsp; | Kevin Rue-Albrecht |
-| ![](../img/organizers/LorenaPantano.jpeg) | &nbsp; | ![](../img/organizers/LoriShepherd.jpg) | &nbsp; | ![](../img/organizers/mahmoud.jpg) | &nbsp; | ![](../img/organizers/MatthewMcCall.jpeg) | &nbsp; | ![](../img/organizers/michaellove.jpeg) |
-| Lorena Pantano | &nbsp; | Lori Shepherd | &nbsp; | Mahmoud Ahmed | &nbsp; | Matthew McCall | &nbsp; | Michael Love |
-| ![](../img/organizers/MikhailDozmorov.jpg) | &nbsp; | ![](../img/organizers/QianLiu.jpg) | &nbsp; | ![](../img/organizers/RafaelIrizarry.jpg) | &nbsp; | ![](../img/organizers/SeanDavis.png) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) |
-| Mikhail Dozmorov | &nbsp; | Qian Liu  | &nbsp;  | Rafael Irizarry | &nbsp; | Sean Davis | &nbsp; | Simone Bell |
-| ![](../img/organizers/SiminaBoca.jpg) | &nbsp; | ![](../img/organizers/VincentCarey.png) | &nbsp; |  | &nbsp; |  | &nbsp; |  |
-| Simina Boca | &nbsp;  | Vincent Carey | &nbsp; |  | &nbsp; |  | &nbsp; |  |
+<table style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0 25px;">
+  <tr>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/PeterHickey.png" alt="Peter Hickey" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:peter.hickey@gmail.com">Peter Hickey</a><br>
+      Senior Research Officer</br>
+      Walter and Eliza Hall Institute of Medical Research</br>
+      Australia
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/EllisPatrick.png" alt="Ellis Patrick" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:ellis.patrick@sydney.edu.au">Ellis Patrick</a><br>
+      Associate Professor</br>
+      The University of Sydney</br>
+      Westmead Institute for Medical Research<br>
+      Australia
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/StefanoMangiola.png" alt="Stefano Mangiola" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:stefano.mangiola@adelaide.edu.au">Stefano Mangiola</a><br>
+      Group Leader<br>
+      Computational Cancer Immunogenomics</br>
+      SA Immunogenomics Cancer Institute</br>
+      Australia
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/SteviePederson.png" alt="Stevie Pederson" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:stephen.pederson@telethonkids.org.au">Stevie Pederson</a><br>
+      Postdoctoral Research Fellow<br>
+      Black Ochre Data Labs<br>
+      Indigenous Genomics, Telethon Kids Institute</br>
+      Australia
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/ManojMWagle.png" alt="Manoj M Wagle" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:manojmukunda.wagle@sydney.edu.au">Manoj M Wagle</a><br>
+      PhD Candidate</br>
+      The University of Sydney</br>
+      Children's Medical Research Institute</br>
+      Australia
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/Placeholder.jpeg" alt="Kozo Nishida" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:lwaldron.research@gmail.com">Kozo Nishida</a><br>
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
+      <img src="../img/organizers/Placeholder.jpeg" alt="Jiya Chaudhary" style="max-width: 150px; height: auto;"><br>
+      <a href="mailto:jkc9886@nyu.edu">Jiya Chaudhary</a><br>
+    </td>
+    <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">&nbsp;</td>
+  </tr>
+</table>
+
 
 &nbsp;
 
-- Chelsea Lundstrom
-- Glenn Morton
-- Jason Wendler
-- Jayaram Kancherla
-- Joyce Hsiao
-- Kayla Interdonato
-- Krutika Gaonkar
-- Marc Carlson
-- Nathan Sheffield
-- Tim Triche
-
-
-* Andrew McDavid
-* Charlotte Soneson 
-* Chelsea Lundstrom
-* Erica Feick
-* Glenn Morton
-* Jason Wendler
-* Jayaram Kancherla 
-* Jenny Drnevich
-* Joyce Hsiao
-* Kayla Interdonato
-* Kevin Rue-Albrecht
-* Krutika Gaonkar
-* Lorena Pantano
-* Lori Shepherd
-* Mahmoud Ahmed
-* Marc Carlson
-* Matthew McCall
-* Michael Love
-* Mikhail Dozmorov
-* Nathan Sheffield
-* Qian Liu 
-* Rafael Irizarry
-* Sean Davis
-* Simone Bell
-* Simina Boca
-* Tim Triche
-* Vincent Carey
--->

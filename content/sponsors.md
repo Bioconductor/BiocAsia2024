@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Sponsors"
 description = "Sponsors"
 +++
@@ -194,9 +194,9 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 ***
 
-## Approximate conference demographics
+<!-- ## Approximate conference demographics
 
-- Bioc2021 was virtual and was attended by 500+ participants from the global Bioconductor bioinformatics community. 
+- BiocAsia2021 was virtual and was attended by 500+ participants from the global Bioconductor bioinformatics community. 
 
 - Academic (50%), corporate (e.g., pharmaceutical; 30%);
   not-for-profit (e.g., Cancer Center; 15%), and government (5%)
@@ -211,5 +211,5 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
   development, hands-on practitioners incorporating _R_ / _Bioconductor_ into robust work flows, and researchers developing
   bespoke solutions.
   
--  Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](https://bioc2022.bioconductor.org/code/). 
- 
+-  Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](https://bioc2024.bioconductor.org/code/). 
+  --> -->

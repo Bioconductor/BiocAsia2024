@@ -42,10 +42,10 @@ paginate = 50
 #    weight = 22
 
 [[menu.main]]
-    identifier = "sponsors"
-    name = "Sponsors"
-    url  = "/sponsors/"
-    weight = 50
+    identifier="Organizers"
+    name = "Organizers"
+    url  = "/organizers/"
+    weight = 20
 
 [[menu.main]]
     identifier = "about"
@@ -55,7 +55,6 @@ paginate = 50
 
 [[menu.main]]
     identifier="submissions"
-    parent = "about"
     name = "Submissions"
     url  = "/submissions/"
     weight = 30
@@ -74,12 +73,6 @@ paginate = 50
 #    weight = 4
 
 # https://github.com/devcows/hugo-universal-theme/issues/34
-[[menu.main]]
-    identifier = "organizers"
-    parent = "about"
-    name = "Organizers"
-    url  = "/organizers/"
-    weight = 6
 
 [[menu.main]]
     identifier = "code"
@@ -142,7 +135,7 @@ paginate = 50
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    defaultKeywords = ["Bioconductor Asia 2024", "Bioconductor Asia", "Bioconductor"]
     mainSections = ["blog"]
     # defaultDescription = "Site template made by devcows using hugo"
 
@@ -159,7 +152,7 @@ paginate = 50
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "blue"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -177,8 +170,8 @@ paginate = 50
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Bioconductor conference highlights current developments within and beyond the Bioconductor project.</p>"
-    copyright = "Copyright (c) 2020 - 2023, Bioconductor."
+    about_us = "<p>Bioconductor Asia conference highlights current developments within and beyond the Bioconductor project.</p>"
+    copyright = "Copyright (c) 2020 - 2024, Bioconductor."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
