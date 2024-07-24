@@ -70,6 +70,7 @@ description = "Organizers"
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
       <img src="../img/organizers/Placeholder.jpeg" alt="Jiya Chaudhary" style="max-width: 150px; height: auto;"><br>
       <a href="mailto:jkc9886@nyu.edu">Jiya Chaudhary</a><br>
+      New York University</br>
     </td>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">&nbsp;</td>
   </tr>
