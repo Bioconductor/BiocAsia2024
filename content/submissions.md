@@ -12,7 +12,6 @@ description = "Submissions"
 
 <ul class="event-list">
     <li><b>July 24, 2024</b>: Call for Talks, Workshops and Travel awards open</li>
-    <li><b>August 1, 2024</b>: Registration for BiocAsia 2024 opens</li>
     <li><b>August 19, 2024</b>: Call for Talks, Workshops and Travel awards close</li>
     <li><b>September 30, 2024</b>: Notification of abstract decision</li>
     <!-- <li><b>October 14, 2024</b>: In-person registration closes</li>
