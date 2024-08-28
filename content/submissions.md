@@ -11,7 +11,7 @@ description = "Submissions"
 </style>
 
 <ul class="event-list">
-    <li><b>July 24, 2024</b>: Call for Talks, Workshops and Travel awards open</li>
+    <li><b>July 24, 2024</b>: Call for Talks, Workshops and Conference Access awards open</li>
     <li><b>August 26, 2024</b>: Call for Talks and Workshops close</li>
     <li><b>September 30, 2024</b>: Notification of abstract decision</li>
     <li><b>Nov 7-8, 2024</b>: The BioCAsia 2024 conference</li>
