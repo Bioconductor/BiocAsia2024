@@ -66,6 +66,8 @@ description = "Organizers"
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
       <img src="../img/organizers/Placeholder.jpeg" alt="Kozo Nishida" style="max-width: 150px; height: auto;"><br>
       <a href="mailto:kozo.nishida@gmail.com">Kozo Nishida</a><br>
+      Tokyo University of Agriculture and Technology</br>
+      Japan
     </td>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
       <img src="../img/organizers/Placeholder.jpeg" alt="Jiya Chaudhary" style="max-width: 150px; height: auto;"><br>
