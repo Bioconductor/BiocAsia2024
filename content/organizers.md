@@ -18,14 +18,14 @@ description = "Organizers"
 <table style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0 25px;">
   <tr>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
-      <img src="../img/organizers/PeterHickey.png" alt="Peter Hickey" style="max-width: 150px; height: auto;"><br>
+      <img src="../img/organizers/PeterHickey.png" alt="Photo of Peter Hickey" style="max-width: 150px; height: auto;"><br>
       <a href="https://www.peterhickey.org">Peter Hickey</a><br>
       Senior Research Officer</br>
       Walter and Eliza Hall Institute of Medical Research</br>
       Australia
     </td>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
-      <img src="../img/organizers/EllisPatrick.png" alt="Ellis Patrick" style="max-width: 150px; height: auto;"><br>
+      <img src="../img/organizers/EllisPatrick.png" alt="Photo of Ellis Patrick" style="max-width: 150px; height: auto;"><br>
       <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/ellis-patrick.html">Ellis Patrick</a><br>
       Associate Professor</br>
       The University of Sydney</br>
@@ -33,7 +33,7 @@ description = "Organizers"
       Australia
     </td>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
-      <img src="../img/organizers/StefanoMangiola.png" alt="Stefano Mangiola" style="max-width: 150px; height: auto;"><br>
+      <img src="../img/organizers/StefanoMangiola.png" alt="Photo of Stefano Mangiola" style="max-width: 150px; height: auto;"><br>
       <a href="https://researchers.adelaide.edu.au/profile/stefano.mangiola">Stefano Mangiola</a><br>
       Group Leader<br>
       Computational Cancer Immunogenomics</br>
@@ -41,7 +41,7 @@ description = "Organizers"
       Australia
     </td>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
-      <img src="../img/organizers/SteviePederson.png" alt="Stevie Pederson" style="max-width: 150px; height: auto;"><br>
+      <img src="../img/organizers/SteviePederson.png" alt="Photo of Stevie Pederson" style="max-width: 150px; height: auto;"><br>
       <a href="https://www.telethonkids.org.au/contact-us/our-people/p/stephen-stevie-pederson/">Stevie Pederson</a><br>
       Postdoctoral Research Fellow<br>
       Black Ochre Data Labs<br>
@@ -51,7 +51,7 @@ description = "Organizers"
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: top; width: 25%; padding-bottom: 25px;">
-      <img src="../img/organizers/ManojMWagle.png" alt="Manoj M Wagle" style="max-width: 150px; height: auto;"><br>
+      <img src="../img/organizers/ManojMWagle.png" alt="Photo of Manoj M Wagle" style="max-width: 150px; height: auto;"><br>
       <a href="https://manojmw.github.io">Manoj M Wagle</a><br>
       PhD Candidate</br>
       The University of Sydney</br>
